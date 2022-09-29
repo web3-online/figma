@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+h1 {
+  width: 365px;
+  height: 93px;
+  margin-left: 124px;
+  margin-top: 91px;
+
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 101.38%;
+
+}
+
+.paragraphs {
+  width: 662px;
+  height: 374px;
+  margin-left: 124px;
+  margin-top: 18px;
+  margin-right: 190px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+}
+
+.paragraphs-image-1 {
+  display: flex;
+}
+
+.image-1 {
+  width: 315px;
+  height: 314px;
+}
+
+img {
+  width: 100%;
+}
+
+@media (max-width: 1399px) {
+  h1 {
+    width: 211.4px;
+    height: 53.86px;
+    margin-left: 72px;
+    margin-top: 56px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 101.38%;
+  }
+
+  .paragraphs {
+    width: 383.41px;
+    height: 216.61px;
+    margin-left: 72px;
+    margin-top: 10.42px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+  }
+
+  fksjdf
+  s
+  df
+  sd
+  f
+}
+
+
+@media (max-width: 829px) and (min-width: 375px) {
+  h1 {
+    lsdkjf
+  }
+  sldkfj
+  
+
+}
